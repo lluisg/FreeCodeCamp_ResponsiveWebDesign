@@ -64,3 +64,15 @@ input[type="submit"]{
   border: 0;
   cursor: pointer;
 }
+
+#link_original{
+  position:absolute;
+  right:10px;
+  top:10px;
+  font-size:10px;
+  width:auto;
+  height: auto;
+  text-decoration:none;
+  color:white;
+  z-index: 1;
+}
